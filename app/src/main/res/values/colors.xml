@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="darkModeBackground">#121212</color>
+    <color name="darkModeSurface1dpElevation">#1E1E1E</color>
+    <color name="gray">#888888</color>
+    <color name="lightGray">#BCBCBC</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="darkModePrimary">#BB86FC</color>
+    <color name="darkModePrimaryVariant">#3700B3</color>
+    <color name="darkModeSecondary">#03DAC6</color>
+    <color name="darkModePastelPink">#CF6679</color>
+</resources>

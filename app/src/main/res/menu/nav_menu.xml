@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/menu_inbox"
+            android:title="@string/inbox"
+            android:icon="@drawable/ic_inbox"/>
+        <item
+            android:id="@+id/menu_sent"
+            android:title="@string/sent"
+            android:icon="@drawable/ic_sent"/>
+    </group>
+
+    <item android:title="@string/all_labels">
+        <menu>
+            <item
+                android:id="@+id/menu_starred"
+                android:title="@string/starred"
+                android:icon="@drawable/ic_starred"/>
+            <item
+                android:id="@+id/menu_drafts"
+                android:title="@string/drafts"
+                android:icon="@drawable/ic_drafts"/>
+            <item
+                android:id="@+id/meun_spam"
+                android:title="@string/spam"
+                android:icon="@drawable/ic_spam"/>
+            <item
+                android:id="@+id/menu_trash"
+                android:title="@string/trash"
+                android:icon="@drawable/ic_trash"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/accounts_and_settings">
+        <menu>
+            <item
+                android:id="@+id/menu_switch_accounts"
+                android:title="@string/switch_accounts"
+                android:icon="@drawable/ic_switch_accounts"/>
+            <item
+                 android:id="@+id/menu_add_account"
+                android:title="@string/add_account"
+                android:icon="@drawable/ic_add"/>
+            <item
+                android:id="@+id/menu_settings"
+                android:title="@string/settings"
+                android:icon="@drawable/ic_settings"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/extras">
+        <menu>
+            <item
+                android:id="@+id/menu_feedback"
+                android:title="@string/feedback"
+                android:icon="@drawable/ic_feedback"/>
+            <item
+                android:id="@+id/menu_help"
+                android:title="@string/help"
+                android:icon="@drawable/ic_help"/>
+        </menu>
+    </item>
+
+</menu>
