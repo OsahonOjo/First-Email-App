@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#DB4437</color>
+    <color name="colorPrimaryDark">#A43329</color>
+    <color name="colorAccent">#FFBBCA</color>
 
+    <!-- default colors for dark mode -->
     <color name="darkModeBackground">#121212</color>
     <color name="darkModeSurface1dpElevation">#1E1E1E</color>
-    <color name="gray">#888888</color>
-    <color name="lightGray">#BCBCBC</color>
-
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
 
     <color name="darkModePrimary">#BB86FC</color>
     <color name="darkModePrimaryVariant">#3700B3</color>
     <color name="darkModeSecondary">#03DAC6</color>
-    <color name="darkModePastelPink">#CF6679</color>
+    <!-- default colors for dark mode -->
+
+    <color name="gmailRed">#DB4437</color>
+    <color name="gmailRedHalfShade">#6E221C</color>
+    <color name="gmailThreeQuarterShade">#A43329</color>
+    <color name="pastelPink">#CF6679</color>
+    <color name="lightPink">#FFBBCA</color>
+    <color name="unbleachedSilkPink">#FFDDCA</color>
+
+    <color name="black">#000000</color>
+    <color name="gray">#888888</color>
+    <color name="lightGray">#BCBCBC</color>
+    <color name="white">#FFFFFF</color>
 </resources>
